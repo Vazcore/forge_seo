@@ -1,0 +1,2284 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru" lang="ru"><head><title>Представительства</title><meta name="Keywords" content=""></meta><meta name="Description" content=""></meta><meta http-equiv="Content-Type" content="text/html; charset=utf-8"></meta><link rel="shortcut icon" href="/Autolux/inc/Pages/PatternStd/MetaHead/img/favicon.ico" type="image/x-icon"></link><link rel="icon" href="/Autolux/inc/Pages/PatternStd/MetaHead/img/favicon.ico" type="image/ico"></link><meta name="google-site-verification" content="PFouhTh5ptfXKfNoZAB-5SL3rVHlOYSF3HLLL008pog"></meta><meta http-equiv="Pragma" content="no-cache"></meta><link xmlns="" href="/Autolux/inc/Pages/PageOffices/PageOffices.view.css?ver=1290981600" rel="stylesheet" type="text/css">
+<link xmlns="" href="/Autolux/inc/Pages/PageStd/PageStd.view.css?ver=1363039200" rel="stylesheet" type="text/css">
+<link xmlns="" href="/Autolux/inc/Pages/PatternStd/PatternStd.view.css?ver=1350507600" rel="stylesheet" type="text/css">
+<link xmlns="" href="/Autolux/inc/Pages/PatternStd/common.css?ver=1350507600" rel="stylesheet" type="text/css">
+<!--[if lte IE 8]><link rel='stylesheet' type='text/css' href='/Autolux/inc/Pages/PatternStd/ie678.css' /><![endif]--><!--[if lte IE 7]><script src="/Autolux/inc/Common/IE7.js" type="text/javascript"></script><![endif]--><script type="text/javascript" src="/Autolux/inc/Common/swfobject.js"></script><script src="/Autolux/inc/Common/jquery/jquery-1.8.0.min.js" type="text/javascript"></script><script src="/Autolux/inc/Common/jquery/jquery.validate.min.js" type="text/javascript"></script><script src="/Autolux/inc/Common/locale/ru.js" type="text/javascript"></script><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-38727106-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></head><body><script>var baseLightboxImagePath    = '/Autolux/inc/Common/jquery/lightbox/images/';</script><script xmlns="" src="/lib/BackgroundJobs/BackgroundJobsStarter.view.js?ver=1285621200" language="javascript"> </script><script xmlns="" src="/Autolux/inc/Common/common.js?ver=1288735200" language="javascript"> </script><script xmlns="" src="/Autolux/inc/Common/functions.js?ver=1346187600" language="javascript"> </script><script xmlns="" src="/lib/Fields/StringField/StringField.edit.js?ver=1285621200" language="javascript"> </script><div xmlns="" id="wrapper">
+<div id="main">
+<div id="content">
+<ul class="breadcrumbs">
+<li><a href="/">Главная</a></li>
+<li><a href="/Express_dostavka_gruza_i_pochty">Экспресс доставка груза и почты</a></li>
+<li><span>Представительства</span></li>
+</ul>
+<h1>Представительства</h1>
+<script src="http://mapia.com.ua/api/0.9.0/mapiaapi.js?apikey=1dfba3e2c9141c884c86c1c0bf613d8a"></script><script type="text/javascript">
+        $('document').ready(function(){
+            $('#apply_filter_btn').click(function(){
+                $('#office_filter_form').submit();
+            });
+        });
+    </script><script>var mapia = new Mapia("map", {center: 'ул. Чистяковская, 30', zoom: 1});
+    
+    mapia.addMarker(113, {lat: 50.43689100000000, lon: 30.49492300000000}, {title:'Офис по приему и выдаче груза\nКиев, ул. Льва Толстого, 63\n+38 044 590 01 60, +38 044 201 47 50', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(581, {lat: 50.45206700000000, lon: 30.65217700000000}, {title:'Офис по приему и выдаче груза\nКиев, ул. Вискозная 4-В\n+38 050 475 16 34', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(951, {lat: 50.48721500000000, lon: 30.48224500000000}, {title:'Офис по приему и выдаче груза\nКиев, ул. Новоконстантиновская, 22/15\n+38 044 531 9679', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(722, {lat: 50.44026600000000, lon: 30.49104100000000}, {title:'Офис по приему и выдаче груза\nКиев, площадь Вокзальная, 2 (ТЦ Полесье)\n+38 050 410 50 16', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(111, {lat: 50.45021200000000, lon: 30.39950200000000}, {title:'Офис по приему и выдаче груза\nКиев, ул.Чистяковская, 30 (Центральный офис)\n+38 044 536 00 53, +38 044 536 00 55', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(118, {lat: 50.38950500000000, lon: 30.68708300000000}, {title:'Офис по приему и выдаче груза\nКиев, ул. Лесная, 80 (м-рн Бортничи)\n+38 095 283 64 45', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(112, {lat: 50.38274400000000, lon: 30.47993400000000}, {title:'Офис по приему и выдаче груза\nКиев, пр.40-летия Октября, 128\n+38 044 258 80 05', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(114, {lat: 50.50468084946320, lon: 30.46374775634840}, {title:'Офис по приему и выдаче груза\nКиев, ул. Луговая 16\n+38 044 430 15 95, +38 050 475 05 75', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(271, {lat: 50.42083333000000, lon: 30.61472222000000}, {title:'Офис по приему и выдаче груза\nКиев, ул. Тепловозная, 18Д\n+38 044 599 33 88, +38 044 594 20 22', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(158, {lat: 50.39324500000000, lon: 30.64136000000000}, {title:'Офис по приему и выдаче груза\nКиев, ул. Л.Руденко, 10г\n+38 095 273 71 01', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(110, {lat: 50.40647000000000, lon: 30.51950400000000}, {title:'Офис на автовокзале\nКиев, пр-т.Науки,1/2\n+38 044 451 86 28', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(1141, {lat: 50.45527778000000, lon: 30.40527778000000}, {title:'Офис по приему груза\nКиев, пр-т Победы 67\n+38 050 445 28 85', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(251, {lat: 50.50981264333210, lon: 30.59559503190280}, {title:'Офис по приему и выдаче груза\nКиев, ул. Драйзера, 21\n+38 044 515 08 45', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(117, {lat: 50.41944300000000, lon: 30.44414200000000}, {title:'Офис по приему и выдаче груза\nКиев, ул. Волынская, 53\n+38 050 468 91 60', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(1111, {lat: 0.00000000000000, lon: 0.00000000000000}, {title:'Администрация\nКиев, ул.Чистяковская, 30\n+38 044 536 00 55, +38 044 200 16 20', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(621, {lat: 50.49362100000000, lon: 30.56135500000000}, {title:'Офис по приему и выдаче груза\nКиев, пр. Генерала Ватутина 2т\n+38 050 445 29 42', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(116, {lat: 50.37786200000000, lon: 30.53702700000000}, {title:'Офис по приему и выдаче груза\nКиев, пр. Науки, 57\n+38 050 357 34 93', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(157, {lat: 50.42680100000000, lon: 30.39254400000000}, {title:'Офис по приему и выдаче груза\nКиев, пр-т Академика Королева, 1\n+38 095 273 70 97', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(501, {lat: 50.35553487883790, lon: 30.95400568951250}, {title:'Офис в аэропорту\nА/П Борисполь, Аэропорт "Борисполь", терминал "B"\n+38 044 230 00 71', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(241, {lat: 48.66668900000000, lon: 33.12413600000000}, {title:'Офис по приему и выдаче груза\nАлександрия, ул. Луначарского, 34\n+38 05235 4 13 45, +38 050 694 14 34', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(661, {lat: 48.45549900000000, lon: 38.80420400000000}, {title:'Офис по приему и выдаче груза\nАлчевск, ул. Тельмана, 13а\n+38 095 0504 719', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(185, {lat: 48.10958000000000, lon: 39.08857600000000}, {title:'Офис по приему и выдаче груза\nАнтрацит, ул. Петровского, 12\n+38 050 413 44 20', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(577, {lat: 50.28781265837300, lon: 34.92692836747180}, {title:'Офис по приему и выдаче груза\nАхтырка, ул. Киевская 20\n+38 095 275 37 23', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(671, {lat: 49.81133800000000, lon: 30.13339500000000}, {title:'Офис по приему и выдаче груза\nБелая Церковь, ул.Киевская, 50\n+38 04563 5 92 07', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(672, {lat: 49.78206800000000, lon: 30.17375600000000}, {title:'Офис по приему и выдаче груза\nБелая Церковь, ул. 1-я Совхозная, 2 (массив Леваневского)\n+38 050 448 62 57', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(981, {lat: 46.18604000000000, lon: 30.33919600000000}, {title:'Офис по приему и выдаче груза\nБелгород-Днестровский, ул.Лазо, 31\n+38 04849 3 59 20', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(791, {lat: 49.89023200000000, lon: 28.58589700000000}, {title:'Офис по приему и выдаче груза\nБердичев, ул. Винницкая, 37 (бывшая ул. Свердлова)\n+38 095 272 80 99', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(491, {lat: 46.74949900000000, lon: 36.79879200000000}, {title:'Офис по приему и выдаче груза\nБердянск, ул.Мазина, 45-а\n+38 06153 4 43 03', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(702, {lat: 48.36799700000000, lon: 29.53022000000000}, {title:'Офис по приему и выдаче груза\nБершадь, ул.Красноармейская 15\n+38 050 414 58 04', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(208, {lat: 50.16178800000000, lon: 35.52579700000000}, {title:'Офис по приему и выдаче груза\nБогодухов, ул. Леонова, 1 (Богодуховская автостанция)\n+38 050 412 97 30', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(619, {lat: 50.35561300000000, lon: 30.93528200000000}, {title:'Офис по приему и выдаче груза\nБорисполь, ул. Январская 1\n+38 050 447 44 60', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(101, {lat: 50.30780000000000, lon: 30.33460000000000}, {title:'Офис по приему и выдаче груза\nБоярка, ул.Шевченка, 176\n+38 044 406 08 11, +38 044 406 08 06', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(331, {lat: 50.50481900000000, lon: 30.79397500000000}, {title:'Офис по приему и выдаче груза\nБровары, ул. Кирова, 55\n+38 04594 5 22 37', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(815, {lat: 50.49513900000000, lon: 32.71955300000000}, {title:'Офис по приему и выдаче груза\nВарва, ул. Мира, 11\n+38 050 468 91 61', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(231, {lat: 50.17580700000000, lon: 30.31810200000000}, {title:'Офис по приему и выдаче груза\nВасильков, ул.Гоголя, 5\n+38 04571 2 10 65', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(211, {lat: 49.23846100000000, lon: 28.51895200000000}, {title:'Офис по приему и выдаче груза\nВинница, ул. Карла Маркса, 50\n+38 0432 63 08 30', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(212, {lat: 49.21999900000000, lon: 28.42971900000000}, {title:'Офис по приему и выдаче груза\nВинница, ул. 30-летия Победы, 16 (территория фабрики "Подолье")\n+38 0432 46 72 55', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(302, {lat: 50.84730200000000, lon: 24.31848800000000}, {title:'Офис по приему и выдаче груза\nВладимир-Волынский, ул. Луцкая, 117\n+38 050 415 72 08  , +38 03342 3 09 08', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(341, {lat: 47.57224100000000, lon: 31.33469900000000}, {title:'Офис по приему и выдаче груза\nВознесенск, ул. Октябрьской революции,48-а\n+38 05134 4 26 13', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(203, {lat: 49.53362000000000, lon: 26.20624200000000}, {title:'Офис по приему и выдаче груза\nВолочиск, ул. Уральских Танкистов 1А\n+38 038 454 17 47', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(144, {lat: 50.58809200000000, lon: 30.48757200000000}, {title:'Офис по приему и выдаче груза\nВышгород, ул. Грушевского, 6-а\n+38 095 284 39 06', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(154, {lat: 48.34020600000000, lon: 29.85004300000000}, {title:'Офис по приему и выдаче груза\nГайворон, ул.Коммунар, 2а\n+38 050 381 16 63', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(311, {lat: 51.67794863095320, lon: 33.90940616472400}, {title:'Офис по приему и выдаче груза\nГлухов, ул. Гоголя, 10\n+38 095 272 80 90', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(431, {lat: 48.30994500000000, lon: 38.04902000000000}, {title:'Офис по приему и выдаче груза\nГорловка, ул.Катеринича, 18\n+38 06242 4 64 28', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(884, {lat: 51.89233200000000, lon: 31.59644000000000}, {title:'Офис по приему и выдаче груза\nГородня, ул. 1-го Мая, 8/2\n+38 095 275 23 81', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(741, {lat: 45.71001500000000, lon: 34.40968200000000}, {title:'Офис по приему и выдаче груза\nДжанкой, ул. Джанкойская, 9\n+38 050 387 43 70', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(601, {lat: 48.51552100000000, lon: 34.59434800000000}, {title:'Офис по приему и выдаче груза\nДнепродзержинск, ул.Сыровца, 46\n+38 0569 58 81 18', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(602, {lat: 48.50111600000000, lon: 34.60626000000000}, {title:'Офис по приему и выдаче груза\nДнепродзержинск, ул. Локтюкова, 3 (грузы до 40 кг, офис на автовокзале)\n+38 05692 3 14 38', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(615, {lat: 48.41706600000000, lon: 35.06025900000000}, {title:'Офис по приему и выдаче груза\nДнепропетровск, пр-т Героев, 12\n+38 050 41 30 633', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(612, {lat: 48.47455322741400, lon: 35.00914566582730}, {title:'Офис на автовокзале\nДнепропетровск, ул.Курчатова, 10\n+38 056 778 39 79', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(616, {lat: 48.46328400000000, lon: 35.05241900000000}, {title:'Офис по приему и выдаче груза\nДнепропетровск, ул. Баррикадная 5/7 (район Цветочного рынка)\n+38 095 284 82 30', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(610, {lat: 48.43888889000000, lon: 35.00333333000000}, {title:'Офис по приему и выдаче груза\nДнепропетровск, ул. Макарова, 23-а (ок. стад. "Метеор")\n+38 0562 31 65 63, +38 0562 33 94 15', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(611, {lat: 48.46633500000000, lon: 34.98446100000000}, {title:'Офис по приему и выдаче груза\nДнепропетровск, ул.Караваева, 11а\n+38 056 371 03 53, +38 056 371 03 63', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(613, {lat: 48.49658800000000, lon: 35.06487300000000}, {title:'Офис по приему и выдаче груза\nДнепропетровск, ул.Каруны 3\n+38 056 725 16 86', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(614, {lat: 48.48427900000000, lon: 35.07334200000000}, {title:'Офис по приему и выдаче груза\nДнепропетровск, ул. Бердянская, 65 (ул. Белостоцкого 85а)\n+38 050 187 94 54', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(181, {lat: 47.96961900000000, lon: 37.80129000000000}, {title:'Офис по приему и выдаче груза\nДонецк, ул. Аксакова, 21\n+38 0622 66 71 39, +38 0622 66 14 21', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(182, {lat: 48.05042000000000, lon: 37.76937600000000}, {title:'Офис по приему и выдаче груза\nДонецк, ул. Полиграфическая, 1\n+38 050 332 88 02', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(183, {lat: 47.96619600000000, lon: 37.68733800000000}, {title:'Офис по приему и выдаче груза\nДонецк, ул. Узловая, 12\n+38 062 208 15 00, +38 062 208 14 00', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(202, {lat: 49.35094760268430, lon: 23.51483263830500}, {title:'Офис по приему и выдаче груза\nДрогобыч, ул. Трускавецкая, 71\n+38 050 475 05 36', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(642, {lat: 48.62445600000000, lon: 37.52662300000000}, {title:'Офис по приему и выдаче груза\nДружковка, ул. Московская, 227\n+38 050 468 91 46', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(401, {lat: 45.22240100000000, lon: 33.35733500000000}, {title:'Офис по приему и выдаче груза\nЕвпатория, Межквартальный проезд, 2а\n+38 06569 2 04 28', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(511, {lat: 50.26854400000000, lon: 28.68870300000000}, {title:'Офис по приему и выдаче груза\nЖитомир, пер.Мебельный, 3а\n+38 0412 36 23 99', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(148, {lat: 47.82372700000000, lon: 35.04269900000000}, {title:'Офис по приему и выдаче груза\nЗапорожье, ул. Гудыменко, 28 (1-й этаж)\n+38 050 413 44 16', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(151, {lat: 47.79359124602630, lon: 35.18504272883570}, {title:'Офис по приему и выдаче груза\nЗапорожье, ул.Чапаева, 33\n+38 061 764 41 24, +38 061 764 25 20', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(150, {lat: 47.80620700000000, lon: 35.18497100000000}, {title:'Офис на автовокзале\nЗапорожье, пр-т.Ленина, 20\n+38 0617 64 25 58', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(149, {lat: 47.85420500000000, lon: 35.12880300000000}, {title:'Офис по приему и выдаче груза\nЗапорожье, ул. Ферросплавная, 38\n+38 061 233 14 10, +38 050 332 90 65', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(153, {lat: 49.66129500000000, lon: 32.06255600000000}, {title:'Офис по приему и выдаче груза\nЗолотоноша, ул. Шевченко, 153\n+38 050 358 83 29', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(841, {lat: 48.90758000000000, lon: 24.68266700000000}, {title:'Офис по приему и выдаче груза\nИвано-Франковск, ул.Гетмана Мазепы, 168\n+38 0342 75 30 39', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(481, {lat: 45.35337852840610, lon: 28.84093174989340}, {title:'Офис по приему и выдаче груза\nИзмаил, ул.Короленко, 45\n+38 04841 7 84 09', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(631, {lat: 49.20420946765050, lon: 37.28080376339270}, {title:'Офис по приему и выдаче груза\nИзюм, ул.Паромная, 1\n+38 050 414 57 93, +38 05743 286 66', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(207, {lat: 50.11892100000000, lon: 26.82355200000000}, {title:'Офис по приему и выдаче груза\nИзяслав, ул. Грушевского, 1\n+38 095 275 23 88', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(461, {lat: 46.30437300000000, lon: 30.64884000000000}, {title:'Офис по приему и выдаче груза\nИльичевск, ул. Александрийская, 6-б\n+38 04868 2 40 65', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(595, {lat: 50.52037500000000, lon: 30.24647100000000}, {title:'Офис по приему и выдаче груза\nИрпень, ул. Центральная, 24\n+38 095 273 70 96', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(807, {lat: 49.04135600000000, lon: 24.33702100000000}, {title:'Офис по приему и выдаче груза\nКалуш, ул.Шептицкого, 4\n+38 099 377 62 73, +38 095 283 64 47', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(441, {lat: 48.68460000000000, lon: 26.59815500000000}, {title:'Офис по приему и выдаче груза\nКаменец-Подольский, ул. Пушкинская, 53\n+38 097 340 86 85', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(321, {lat: 46.80488065833400, lon: 33.49187063238390}, {title:'Офис по приему и выдаче груза\nКаховка, ул.Кирова, 2-а\n+38 095 272 80 93', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(371, {lat: 45.34482400000000, lon: 36.47098300000000}, {title:'Офис по приему и выдаче груза\nКерч, ул. Набережная, 1\n+38 06561 2 21 37', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(860, {lat: 48.50956100000000, lon: 32.27260700000000}, {title:'Офис по приему груза\nКировоград, ул.Шевченка, 54 (грузы до 30 кг)\n+38 0522 24 74 53', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(861, {lat: 48.51761400000000, lon: 32.19811400000000}, {title:'Офис по приему и выдаче груза\nКировоград, ул. Выставочная, 1-а\n+38 0522 35 77 48', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(862, {lat: 48.52140100000000, lon: 32.28451400000000}, {title:'Офис по приему и выдаче груза\nКировоград, ул. Маланюка 25\n+38 066 388 28 37', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(991, {lat: 51.19935400000000, lon: 24.70085800000000}, {title:'Офис по приему и выдаче груза\nКовель, ул.Варшавская, 1\n+38 03352 7 19 55', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(651, {lat: 48.53765074357680, lon: 25.03627075964240}, {title:'Офис по приему и выдаче груза\nКоломыя, ул. Русина, 4-а\n+38 050 387 42 70', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(281, {lat: 51.23733592782460, lon: 33.20394287069040}, {title:'Офис по приему и выдаче груза\nКонотоп, ул. Батуринская, 22а\n+38 050 387 35 52', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(124, {lat: 50.95675700000000, lon: 28.61499500000000}, {title:'Офис по приему и выдаче груза\nКоростень, ул. Карла Либкнехта, 1 (здание УТОС).\n+38 050 445 29 43', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(885, {lat: 51.76566200000000, lon: 32.24945800000000}, {title:'Офис по приему и выдаче груза\nКорюковка, ул. Вокзальная, 23\n+38 050 412 97 38', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(127, {lat: 47.74803900000000, lon: 29.53243900000000}, {title:'Офис по приему и выдаче груза\nКотовск, ул.50-летия Октября, 5\n+38 04862 2 17 64', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(711, {lat: 48.74339900000000, lon: 37.58764900000000}, {title:'Офис по приему и выдаче груза\nКраматорск, ул. Марата, 7\n+38 06264 3 55 66', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(502, {lat: 48.28833300000000, lon: 37.16026800000000}, {title:'Офис по приему и выдаче груза\nКрасноармейск, ул. Шевченко, 2\n+38 050 410 75 53', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(204, {lat: 48.29655600000000, lon: 39.73992600000000}, {title:'Офис по приему и выдаче груза\nКраснодон, пр-т. 60-летия СССР, 2 (территория АТП 10914)\n+38 050 332 87 93', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(186, {lat: 48.13925800000000, lon: 38.92090600000000}, {title:'Офис по приему и выдаче груза\nКрасный Луч, ул. Горная, 2-а\n+38 050 413 44 17', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(592, {lat: 49.09356900000000, lon: 33.42180200000000}, {title:'Офис по приему и выдаче груза\nКременчуг, ул. Киевская, 1 (1-й Песчаный Тупик)\n+38 0536 78 09 31', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(593, {lat: 49.09222200000000, lon: 33.43691600000000}, {title:'Офис по приему и выдаче груза\nКременчуг, ул. Бойко, 7 (Новоивановский рынок)\n+38 0536 78 04 80', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(591, {lat: 49.06428500000000, lon: 33.42198200000000}, {title:'Офис по приему и выдаче груза\nКременчуг, ул.Воровского, 32/6\n+38 05366 2 21 03', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(901, {lat: 47.91365300000000, lon: 33.43883900000000}, {title:'Офис по приему и выдаче груза\nКривой Рог, ул. Мудреная, 1-а\n+38 0564 40 08 99, +38 0564 74 39 20', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(902, {lat: 48.06860200000000, lon: 33.50484000000000}, {title:'Офис по приему и выдаче груза\nКривой Рог, ул. 23-го Февраля 60а (рынок "Интернат")\n+38 050 358-07-32', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(408, {lat: 51.54961800000000, lon: 33.38246700000000}, {title:'Офис по приему и выдаче груза\nКролевец, ул. Октябрьская 19\n+38 050 475 14 98', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(205, {lat: 48.90259200000000, lon: 38.43272900000000}, {title:'Офис по приему и выдаче груза\nЛисичанск, ул. Макаренко, 208\n+38 050 445 28 70', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(551, {lat: 50.01672507110370, lon: 32.98885628407000}, {title:'Офис по приему и выдаче груза\nЛубны, ул. Советская, 157\n+38 0536 17 41 40', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(140, {lat: 48.54466000000000, lon: 39.33436200000000}, {title:'Офис на автовокзале (приём и выдача мелкого багажа)\nЛуганск, ул. Оборонная, 28\n+38 0642 50 28 17', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(141, {lat: 48.53725300000000, lon: 39.32766100000000}, {title:'Офис по приему и выдаче груза\nЛуганск, пер.Краснодонский, 3а\n+38 0642 59 95 08, +38 0642 34 14 85', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(261, {lat: 48.57777778000000, lon: 39.32500000000000}, {title:'Офис по приему груза\nЛуганск, ул.21-ой линии, 1\n+38 0642 52 32 66', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(143, {lat: 48.39483900000000, lon: 39.19788700000000}, {title:'Офис по приему и выдаче груза\nЛутугино, пер. Спортивный, 2/2\n+38 050 410 50 17', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(771, {lat: 50.75853000000000, lon: 25.34838000000000}, {title:'Офис по приему и выдаче груза\nЛуцк, ул. Привокзальная 10\n+38 03322 3 38 85, +38 03322 73 51 07', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(772, {lat: 50.74333300000000, lon: 25.36337600000000}, {title:'Офис по приему и выдаче груза\nЛуцк, ул. Ровенская, 25\n+38 050 468 91 64', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(190, {lat: 49.78682900000000, lon: 24.01647700000000}, {title:'Офис по приему и выдаче груза\nЛьвов, ул.Стрыйская, 109\n+38 0322 94 85 95', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(195, {lat: 49.79684200000000, lon: 24.05020800000000}, {title:'Офис по приему и выдаче груза\nЛьвов, просп. Красной Калины, 44\n+38 095 283 64 40', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(193, {lat: 49.82219600000000, lon: 23.92635500000000}, {title:'Офис по приему и выдаче груза\nЛьвов, ул. Городоцкая 355/6\n+38 032 295 70 52', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(192, {lat: 49.82912600000000, lon: 24.01282800000000}, {title:'Офис по приему и выдаче груза\nЛьвов, ул.Сахарова, 42 (выдача грузов до 30 кг)\n+38 0322 97 65 15', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(191, {lat: 49.85540100000000, lon: 24.04897200000000}, {title:'Офис по приему и выдаче груза\nЛьвов, ул. Новознесенская, 2\n+38 0322 52 90 03', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(303, {lat: 48.09056400000000, lon: 38.08060500000000}, {title:'Офис по приему и выдаче груза\nМакеевка, ул. Ленина, 84/16 (бывший гастроном "Макеевский", 18-я линия)\n+38 050 415 72 12', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(125, {lat: 50.76868400000000, lon: 29.26937400000000}, {title:'Офис по приему и выдаче груза\nМалин, ул.Грушевского, 47\n+38 050 445 28 72, +38 04133 5 24 92', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(971, {lat: 47.10744600000000, lon: 37.56068100000000}, {title:'Офис по приему и выдаче груза\nМариуполь, ул.Артема, 103\n+38 0629 47 04 20, +38 0629 47 04 21', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(731, {lat: 46.85463400000000, lon: 35.36521200000000}, {title:'Офис по приему и выдаче груза\nМелитополь, ул.Фрунзе, 138\n+38 050 443 04 97, +38 0619 44 05 41', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(152, {lat: 51.52009300000000, lon: 32.21524900000000}, {title:'Офис по приему и выдаче груза\nМена, ул.Ленина, 28/2 (напротив Троицкого рынка)\n+38 050 387 40 55', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(471, {lat: 49.95340800000000, lon: 33.60920400000000}, {title:'Офис по приему и выдаче груза\nМиргород, ул. Котляревского, 7\n+38 050 3333 051', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(493, {lat: 49.79002000000000, lon: 23.15135600000000}, {title:'Офис по приему и выдаче груза\nМостиска, ул. Зеленая, 2в\n+38 095 283 64 49', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(931, {lat: 48.44041900000000, lon: 22.75216400000000}, {title:'Офис по приему и выдаче груза\nМукачево, ул. Индустриальная 1Б\n+38 095 273 08 19', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(351, {lat: 51.03610500000000, lon: 31.89037900000000}, {title:'Офис по приему и выдаче груза\nНежин, ул. Франка, 18 (На территории хлебозавода)\n+38 04631 2 32 26', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(232, {lat: 50.33037800000000, lon: 26.64442200000000}, {title:'Офис по приему и выдаче груза\nНетешин,  ул. Шевченко, 26\n+38 095 275 23 94', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(801, {lat: 46.96782200000000, lon: 32.00452200000000}, {title:'Офис по приему и выдаче груза\nНиколаев, ул.Большая Морская, 108/4\n+38 0512 50 02 11', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(802, {lat: 46.95838400000000, lon: 31.99716500000000}, {title:'Офис по приему и выдаче груза\nНиколаев, ул. Чигрина, 39\n+38 0512 71 70 59', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(451, {lat: 47.57914000000000, lon: 34.37376300000000}, {title:'Офис по приему и выдаче груза\nНикополь, ул.Героев Чернобыля, 106\n+38 0566 63 97 79', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(322, {lat: 46.76297200000000, lon: 33.37766000000000}, {title:'Офис по приему и выдаче груза\nНовая Каховка, ул. Промышленная, 5\n+38 050 332 90 57', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(781, {lat: 50.73429182112710, lon: 24.17164809747570}, {title:'Офис по приему и выдаче груза\nНововолынск, ул. Пирогова 7\n+38 03344 4 90 65', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(521, {lat: 50.58722222000000, lon: 27.60555556000000}, {title:'Офис по приему и выдаче груза\nНовоград - Волынский, ул. Шевченко, 54\n+38 04141 5 20 17', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(617, {lat: 48.62922800000000, lon: 35.26237300000000}, {title:'Офис по приему и выдаче груза\nНовомосковск, пл. Победы, 17\n+38 050 448 62 01', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(291, {lat: 50.11717800000000, lon: 30.63808500000000}, {title:'Офис по приему и выдаче груза\nОбухов, ул. Киевская, 78\n+38 04572 5 64 14', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(139, {lat: 46.44495100000000, lon: 30.63974500000000}, {title:'Офис по приему груза\nОдесса, 7-й км, Автостоянка №1\n+38 050 414 58 06', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(133, {lat: 46.47980200000000, lon: 30.71571300000000}, {title:'Офис по приему и выдаче груза\nОдесса, ул.Раскидайловская, 18 (продажа билетов)\n+38 0482 37 73 92', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(156, {lat: 46.59399200000000, lon: 30.80586700000000}, {title:'Офис по приему и выдаче груза\nОдесса, ул. Паустовского 11а (продажа билетов)\n+38 048 701 90 00, +38 048 7014530', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(131, {lat: 46.47270700000000, lon: 30.69686800000000}, {title:'Офис по приему и выдаче груза\nОдесса, пер. Строительный 3 (продажа билетов)\n+38 048 704 90 00, +38 048 7375400', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(135, {lat: 46.44388800000000, lon: 30.64673900000000}, {title:'Офис по приему и выдаче груза\nОдесса, 7-й км, ТВК «Новый Город», Базовая, 17\n+38 050 357 37 79', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(132, {lat: 46.44273700000000, lon: 30.67690400000000}, {title:'Офис по приему и выдаче груза\nОдесса, ул.Центральный Аэропорт, 2а\n+38 048 777 67 84', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(134, {lat: 46.44225600000000, lon: 30.63431700000000}, {title:'Офис по приему и выдаче груза\nОдесса, 7-й км «Воинская» ТВК\n+38 095 271 22 17', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(136, {lat: 46.43994900000000, lon: 30.63704700000000}, {title:'Офис по приему груза\nОдесса, 7-й км, Автостоянка №3 за ул.Розовой\n+38 095 271 45 21', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(137, {lat: 46.39710400000000, lon: 30.71090700000000}, {title:'Офис по приему и выдаче груза\nОдесса, пр-т  Академика Глушко, 29 (продажа билетов)\n+38 048 7706770', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(130, {lat: 46.46616200000000, lon: 30.73942400000000}, {title:'Офис по приему и выдаче груза\nОдесса, пл.Старосенная, 2 (авт. "Привокзальная", возле ж/д вокзала (Одесса-Главная, 35), продажа билетов)\n+38 048 701 90 00', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(198, {lat: 50.32894400000000, lon: 26.53064600000000}, {title:'Офис по приему и выдаче груза\nОстрог, ул. Мануильского, 35 (на территории рынка)\n+38 095 275 23 90', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(911, {lat: 48.52637256301580, lon: 35.88530914624600}, {title:'Офис по приему и выдаче груза\nПавлоград, ул. Шутя, 25-а\n+38 05632 6 16 44', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(421, {lat: 48.04262800000000, lon: 30.85397400000000}, {title:'Офис по приему и выдаче груза\nПервомайск, ул. Желябова, 3\n+38 050 387 52 09, +38 093 981 39 29', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(761, {lat: 50.07565600000000, lon: 31.46083100000000}, {title:'Офис по приему и выдаче груза\nПереяслав-Хмельницкий, ул.Сковороды, 68/38\n+38 050 387 39 50, +38 095 817 32 61', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(561, {lat: 50.24041115784090, lon: 32.51168554032280}, {title:'Офис по приему и выдаче груза\nПирятин, ул.Красноармейская, 154\n+38 0 5358 2 86 94, +38 050 387 46 78', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(532, {lat: 49.59266400000000, lon: 34.51431400000000}, {title:'Офис по приему и выдаче груза\nПолтава, ул. Краснофлотская, 19\n+38 0532 560 550', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(531, {lat: 49.56664500000000, lon: 34.49067300000000}, {title:'Офис по приему и выдаче груза\nПолтава, ул.Великотырновская, 7 (офис на автовокзале)\n+38 0532 63 95 10, +38 0532 63 95 20', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(381, {lat: 50.58932435028660, lon: 32.39817363576710}, {title:'Офис по приему и выдаче груза\nПрилуки, ул. Киевская, 369\n+38 050 387 46 71', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(541, {lat: 50.22747970755840, lon: 23.62804000691990}, {title:'Офис по приему и выдаче груза\nРава-Русская, ул. Грушевского 26\n+38 050 384 75 24', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(886, {lat: 51.80229900000000, lon: 31.09464300000000}, {title:'Офис по приему и выдаче груза\nРепки, ул. Святониколаевская, 117-б\n+38 095 275 23 82', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(161, {lat: 50.62740400000000, lon: 26.24889600000000}, {title:'Офис по приему и выдаче груза\nРовно, ул.Набережная, 32\n+38 0362 22 69 10', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(162, {lat: 50.61193200000000, lon: 26.20901500000000}, {title:'Офис по приему и выдаче груза\nРовно, ул. Дубенская, 46\n+38 095 275 23 95', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(681, {lat: 50.74222308156440, lon: 33.48600588293190}, {title:'Офис по приему и выдаче груза\nРомны, бульв. Московский, 11ж\n+38 050 387 42 20, +38 0 54 48 5 27 43', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(492, {lat: 49.51373000000000, lon: 23.20513600000000}, {title:'Офис по приему и выдаче груза\nСамбор, ул. Шевченко 52/9\n+38 095 283 64 48', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(155, {lat: 48.08478800000000, lon: 39.65165100000000}, {title:'Офис по приему и выдаче груза\nСвердловск, ул. Энгельса, 51-а\n+38 050 332 87 92', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(891, {lat: 44.58277725850750, lon: 33.48017579799190}, {title:'Офис по приему и выдаче груза\nСевастополь, Фиолентовское шоссе, 1\n+38 0692 92 08 59', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(221, {lat: 48.94988822321660, lon: 38.48001130566580}, {title:'Офис по приему и выдаче груза\nСеверодонецк, ул. Заводская, 37\n+38 06452 4 42 72', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(753, {lat: 44.93810100000000, lon: 34.07247400000000}, {title:'Офис по приему и выдаче груза\nСимферополь, ул. Генерала Васильева, 44-Б\n+38 050 332 88 16', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(751, {lat: 44.94015000000000, lon: 34.13014100000000}, {title:'Офис по приему и выдаче груза\nСимферополь, пр-т. Вернадского, 63\n+38 0652 63 20 57', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(199, {lat: 50.29440300000000, lon: 26.86493900000000}, {title:'Офис по приему и выдаче груза\nСлавута, ул. Соборности, 26/41\n+38 095 275 23 84', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(703, {lat: 51.52170800000000, lon: 30.76695100000000}, {title:'Офис по приему и выдаче груза\nСлавутич, ул. Черниговская, 10\n+38 050 414 58 36', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(641, {lat: 48.84979177986330, lon: 37.61279091380830}, {title:'Офис по приему и выдаче груза\nСлавянск, ул. Ленинградская, 67\n+38 050 387 39 89', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(391, {lat: 49.20835300000000, lon: 31.87239200000000}, {title:'Офис по приему и выдаче груза\nСмела, ул. Октябрьская, 81\n+38 04733 4 13 47, +38 097 929 61 70', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(941, {lat: 49.25767222598950, lon: 23.84588042353200}, {title:'Офис по приему и выдаче груза\nСтрий, ул.Вокзальная, 148-б\n+38 03245 5 83 83', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(851, {lat: 50.91203900000000, lon: 34.77405100000000}, {title:'Офис по приему и выдаче груза\nСумы, ул.Пушкина, 55\n+38 0542 60 05 38, +38 0542 65 90 89', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(852, {lat: 50.93288800000000, lon: 34.79898700000000}, {title:'Офис по приему и выдаче груза\nСумы, ул. Воровского, 20\n+38 095 283 64 43', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(821, {lat: 49.54208700000000, lon: 25.55579800000000}, {title:'Офис по приему и выдаче груза\nТернополь, ул. Объездная, 16 (напротив ул. Троллейбусная 17)\n+38 0352 55 00 48', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(822, {lat: 49.57296700000000, lon: 25.60575000000000}, {title:'Офис по приему и выдаче груза\nТернополь, ул. Полесская, 9\n+38 050 332 88 15', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(921, {lat: 48.60743800000000, lon: 22.27859700000000}, {title:'Офис по приему и выдаче груза\nУжгород, ул.Богомольца, 19а\n+38 091 316 26 15', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(691, {lat: 48.75998500000000, lon: 30.22006800000000}, {title:'Офис по приему и выдаче груза\nУмань, ул.Тыщика, 40\n+38 04744 3 98 76', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(452, {lat: 50.08085200000000, lon: 29.92449900000000}, {title:'Офис по приему и выдаче груза\nФастов, ул. Советская, 27\n+38 050 333 30 49, +38 093 967 14 20', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(411, {lat: 45.05128600000000, lon: 35.37061000000000}, {title:'Офис по приему и выдаче груза\nФеодосия, пер. Тамбовский, 1а\n+38 095 189 70 10', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(503, {lat: 47.33214800000000, lon: 29.75359400000000}, {title:'Офис по приему и выдаче груза\nФрунзовка, ул. Горького, 8\n+38 050 413 06 37', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(121, {lat: 49.96955645651690, lon: 36.25196756192210}, {title:'Офис по приему и выдаче груза\nХарьков, ул.Чугуевская, 58\n+38 057 736 01 49, +38 057 736 01 44', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(961, {lat: 50.00677700000000, lon: 36.32632900000000}, {title:'Офис по приему и выдаче груза\nХарьков, ул. Механизаторская, 6\n+38 050 445 26 99', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(128, {lat: 49.99780000000000, lon: 36.29233700000000}, {title:'Офис по приему и выдаче груза\nХарьков, ул.Якира, 109, рынок "Барабашова"\n+38 057 738 15 97', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(123, {lat: 49.98783900000000, lon: 36.22343600000000}, {title:'Офис по приему груза\nХарьков, ул. Энгельса, 8\n+38 057 712 25 59', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(146, {lat: 50.00368600000000, lon: 36.29463500000000}, {title:'Офис по приему и выдаче груза\nХарьков, ул. Елены Стасовой, 17 (рынок "Барабашово", афганская площадка)\n+38 050 315 32 46', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(145, {lat: 49.97071100000000, lon: 36.12818300000000}, {title:'Офис по приему и выдаче груза\nХарьков, пгт. Песочин,  площадь Ю.Кононенко, 1, торговое место №13, ряд №П (авторынок "ЛОСК")\n +38 050 315 37 44', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(129, {lat: 50.05948800000000, lon: 36.20162300000000}, {title:'Офис по приему и выдаче груза\nХарьков, Алексеевская ярмарка,  пр. Людвига Свободы, 43 (пересечение с пр. Победы)\n+38 050 357 34 69', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(120, {lat: 49.97919894641400, lon: 36.24636627976070}, {title:'Офис на автовокзале\nХарьков, пр-т.Гагарина, 22 (прием мелкого груза)\n+38 057 732 54 71', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(138, {lat: 49.95028400000000, lon: 36.37505600000000}, {title:'Офис по приему и выдаче груза\nХарьков, ул. Мира, 20 (ХТЗ)\n+38 050 442 62 66', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(122, {lat: 49.98405721924360, lon: 36.23101284243330}, {title:'Офис по приему груза\nХарьков, ул.Кузнечная, 4/6 (груз до 25 кг)\n+38 057 771 07 57, +38 057 771 07 73', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(201, {lat: 46.65654700000000, lon: 32.62900800000000}, {title:'Офис по приему и выдаче груза\nХерсон, ул. Ильи Кулика, 77\n+38 0552 31 01 19, +38 0552 31 03 30', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(200, {lat: 46.64499500000000, lon: 32.60494800000000}, {title:'Офис по приему и выдаче груза\nХерсон, ул. К.Цеткин, 18 (рядом с библиотекой, расположенной по ул. Карла Маркса, 97)\n+38 0552 49 54 39, +38 050 332 89 96', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(811, {lat: 49.40947800000000, lon: 27.04212700000000}, {title:'Офис по приему и выдаче груза\nХмельницкий, ул. Заводская, 163\n+38 0382 74 67 50', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(812, {lat: 49.41734800000000, lon: 26.96480500000000}, {title:'Офис по приему и выдаче груза\nХмельницкий, Львовское шоссе, 12\n+38 050 383 85 44', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(282, {lat: 50.38618100000000, lon: 24.22703900000000}, {title:'Офис по приему и выдаче груза\nЧервоноград, ул. Богдана Хмельницкого, 61\n+38 050 414 57 95', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(8710, {lat: 49.42400100000000, lon: 32.03994400000000}, {title:'Офис по приему и выдаче груза\nЧеркассы, ул. Луценко 3\n+38 0472 63 09 49, +38 0472 63 09 30', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(871, {lat: 49.43740300000000, lon: 32.03864800000000}, {title:'Офис по приему и выдаче груза\nЧеркассы, ул.Одесская, 8\n+38 0472 32 49 56', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(882, {lat: 51.51771500000000, lon: 31.25896200000000}, {title:'Офис по приему и выдаче груза\nЧернигов, ул. Инструментальная, 13\n+38 050 332 88 05', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(881, {lat: 51.48707000000000, lon: 31.31044700000000}, {title:'Офис по приему и выдаче груза\nЧернигов, ул. Подвальная, 23\n+38 0462 69 93 93', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(831, {lat: 48.27129900000000, lon: 25.96370800000000}, {title:'Офис по приему и выдаче груза\nЧерновцы, ул. Миргородская 12 А\n+38 0372 589 370, +38 0372 589 371', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(147, {lat: 49.83599600000000, lon: 36.68836000000000}, {title:'Офис по приему и выдаче груза\nЧугуев, ул. Карла Либкнехта, 45\n+38 095 284 39 08', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(197, {lat: 50.16940800000000, lon: 27.06186700000000}, {title:'Офис по приему и выдаче груза\nШепетовка, Староконстантиновское шоссе, 23-а\n+38 095 275 23 92', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(361, {lat: 51.86547242866500, lon: 33.48244196790260}, {title:'Офис по приему и выдаче груза\nШостка, пер. Шевченко 6-а\n+38 050 447 96 43', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(883, {lat: 51.82288800000000, lon: 31.94291400000000}, {title:'Офис по приему и выдаче груза\nЩорс, ул. Ленина, 25\n+38 095 275 23 80', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(301, {lat: 47.49217500000000, lon: 34.65275600000000}, {title:'Офис по приему и выдаче груза\nЭнергодар, ул. Комсомольская, 34\n+38 050 358 85 83', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(701, {lat: 47.82793751842080, lon: 31.15558365977990}, {title:'Офис по приему и выдаче груза\nЮжноукраинск, ул. Молодежная 12 (ул. Брандербург, 1)\n+38 050 387 36 40', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(504, {lat: 46.62628300000000, lon: 31.10131900000000}, {title:'Офис по приему и выдаче груза\nЮжный, ул. Химиков, 19-а (павильон №160)\n+38 050 413 05 93', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+
+    
+    mapia.addMarker(171, {lat: 44.49823500000000, lon: 34.14210400000000}, {title:'Офис по приему и выдаче груза\nЯлта, ул. Тимирязева 27 Б\n+38 0654 27 52 55', icon_url:'http://autolux.ua/Sites/Autolux/inc/Pages/PageOffices/img/ico-map.gif'});
+</script><span class="mapia-container"><span id="map"></span></span><div class="die-long">
+<div class="d-content"><form id="office_filter_form" method="POST" action="/Predstavitelstva/query/filter/city"><ul class="filters">
+<li class="c1">
+<p><big>Фильтры</big>:</p>
+<a id="apply_filter_btn" class="btn"><span>Применить</span></a><input type="hidden" name="verify" value="20140730102357idp3724728">
+</li>
+<li class="c2"><p>Город <select name="city_filter" id="city_filter"><option value="0">Все</option>
+<option value="501">А/П Борисполь</option>
+<option value="241">Александрия</option>
+<option value="995">Алушта</option>
+<option value="661">Алчевск</option>
+<option value="185">Антрацит</option>
+<option value="577">Ахтырка</option>
+<option value="671">Белая Церковь</option>
+<option value="981">Белгород-Днестровский</option>
+<option value="791">Бердичев</option>
+<option value="491">Бердянск</option>
+<option value="702">Бершадь</option>
+<option value="208">Богодухов</option>
+<option value="619">Борисполь</option>
+<option value="101">Боярка</option>
+<option value="331">Бровары</option>
+<option value="815">Варва</option>
+<option value="231">Васильков</option>
+<option value="211">Винница</option>
+<option value="302">Владимир-Волынский</option>
+<option value="341">Вознесенск</option>
+<option value="203">Волочиск</option>
+<option value="144">Вышгород</option>
+<option value="154">Гайворон</option>
+<option value="311">Глухов</option>
+<option value="431">Горловка</option>
+<option value="884">Городня</option>
+<option value="109">Горохов</option>
+<option value="419">Дебальцево</option>
+<option value="741">Джанкой</option>
+<option value="601">Днепродзержинск</option>
+<option value="611">Днепропетровск</option>
+<option value="181">Донецк</option>
+<option value="202">Дрогобыч</option>
+<option value="642">Дружковка</option>
+<option value="401">Евпатория</option>
+<option value="511">Житомир</option>
+<option value="151">Запорожье</option>
+<option value="153">Золотоноша</option>
+<option value="841">Ивано-Франковск</option>
+<option value="481">Измаил</option>
+<option value="631">Изюм</option>
+<option value="207">Изяслав</option>
+<option value="461">Ильичевск</option>
+<option value="595">Ирпень</option>
+<option value="807">Калуш</option>
+<option value="441">Каменец-Подольский</option>
+<option value="321">Каховка</option>
+<option value="371">Керч</option>
+<option value="111">Киев</option>
+<option value="861">Кировоград</option>
+<option value="991">Ковель</option>
+<option value="651">Коломыя</option>
+<option value="281">Конотоп</option>
+<option value="124">Коростень</option>
+<option value="885">Корюковка</option>
+<option value="127">Котовск</option>
+<option value="711">Краматорск</option>
+<option value="502">Красноармейск</option>
+<option value="204">Краснодон</option>
+<option value="186">Красный Луч</option>
+<option value="591">Кременчуг</option>
+<option value="519">Кривое Озеро</option>
+<option value="901">Кривой Рог</option>
+<option value="408">Кролевец</option>
+<option value="205">Лисичанск</option>
+<option value="551">Лубны</option>
+<option value="141">Луганск</option>
+<option value="143">Лутугино</option>
+<option value="771">Луцк</option>
+<option value="191">Львов</option>
+<option value="206">Любашевка</option>
+<option value="303">Макеевка</option>
+<option value="125">Малин</option>
+<option value="971">Мариуполь</option>
+<option value="731">Мелитополь</option>
+<option value="152">Мена</option>
+<option value="471">Миргород</option>
+<option value="493">Мостиска</option>
+<option value="931">Мукачево</option>
+<option value="351">Нежин</option>
+<option value="232">Нетешин</option>
+<option value="801">Николаев</option>
+<option value="451">Никополь</option>
+<option value="322">Новая Каховка</option>
+<option value="781">Нововолынск</option>
+<option value="521">Новоград - Волынский</option>
+<option value="617">Новомосковск</option>
+<option value="291">Обухов</option>
+<option value="131">Одесса</option>
+<option value="198">Острог</option>
+<option value="911">Павлоград</option>
+<option value="421">Первомайск</option>
+<option value="761">Переяслав-Хмельницкий</option>
+<option value="561">Пирятин</option>
+<option value="531">Полтава</option>
+<option value="381">Прилуки</option>
+<option value="541">Рава-Русская</option>
+<option value="209">Радехов</option>
+<option value="886">Репки</option>
+<option value="161">Ровно</option>
+<option value="681">Ромны</option>
+<option value="492">Самбор</option>
+<option value="155">Свердловск</option>
+<option value="891">Севастополь</option>
+<option value="221">Северодонецк</option>
+<option value="751">Симферополь</option>
+<option value="199">Славута</option>
+<option value="703">Славутич</option>
+<option value="641">Славянск</option>
+<option value="391">Смела</option>
+<option value="941">Стрий</option>
+<option value="851">Сумы</option>
+<option value="821">Тернополь</option>
+<option value="921">Ужгород</option>
+<option value="691">Умань</option>
+<option value="452">Фастов</option>
+<option value="411">Феодосия</option>
+<option value="503">Фрунзовка</option>
+<option value="121">Харьков</option>
+<option value="201">Херсон</option>
+<option value="811">Хмельницкий</option>
+<option value="319">Хорол</option>
+<option value="282">Червоноград</option>
+<option value="871">Черкассы</option>
+<option value="881">Чернигов</option>
+<option value="831">Черновцы</option>
+<option value="147">Чугуев</option>
+<option value="197">Шепетовка</option>
+<option value="361">Шостка</option>
+<option value="883">Щорс</option>
+<option value="310">Энергодар</option>
+<option value="701">Южноукраинск</option>
+<option value="504">Южный</option>
+<option value="171">Ялта</option></select></p></li>
+<li class="c3">
+<p><input id="prodazha_biletov" class="ch" name="prodazha_biletov" type="checkbox" value="1"><label for="prodazha_biletov"> Продажа билетов</label></p>
+<p><input id="priem_gruzov" class="ch" name="priem_gruzov" type="checkbox" value="1"><label for="priem_gruzov"> Прием грузов</label></p>
+<p><input id="vydacha_gruzov" class="ch" name="vydacha_gruzov" type="checkbox" value="1"><label for="vydacha_gruzov"> Выдача грузов</label></p>
+</li>
+</ul></form></div>
+<div class="d-bot"></div>
+</div>
+<table class="tbl-agencies" cellspacing="0">
+<thead><tr>
+<th>Услуги</th>
+<th>Адрес</th>
+<th style="width:120px">Телефон</th>
+<th>Время работы</th>
+</tr></thead>
+<tbody>
+<tr><td class="area em" colspan="4">Киев</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Льва Толстого, 63</td>
+<td>+38 044 590 01 60, +38 044 201 47 50</td>
+<td>пн-пт: 09:00-20:00
+сб-вс: 09:00-18:00</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Вискозная 4-В</td>
+<td>+38 050 475 16 34</td>
+<td>пн-пт 09:30–19:00; сб-вс 09:30 – 18:00.</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Новоконстантиновская, 22/15</td>
+<td>+38 044 531 9679</td>
+<td>
+пн-пт: 09:00-20:00 (приём*:  до 18:00); сб: 09:00-19:00 (приём**: до 14:30); вс: выходной</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>площадь Вокзальная, 2 (ТЦ Полесье)</td>
+<td>+38 050 410 50 16</td>
+<td>пн-вс: 08:00-21:00</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Чистяковская, 30 (Центральный офис)</td>
+<td>+38 044 536 00 53, +38 044 536 00 55</td>
+<td>круглосуточно</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Лесная, 80 (м-рн Бортничи)</td>
+<td>+38 095 283 64 45</td>
+<td>пн-пт 10:00-19:00; сб 10:00-14:00, вс: выходной</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>пр.40-летия Октября, 128</td>
+<td>+38 044 258 80 05</td>
+<td>пн-сб: 09:00-20:00, вс: 10:00-18:00</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Луговая 16</td>
+<td>+38 044 430 15 95, +38 050 475 05 75</td>
+<td>пн-вс 9:00 - 20:00</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Тепловозная, 18Д</td>
+<td>+38 044 599 33 88, +38 044 594 20 22</td>
+<td>пн-сб:09:00-20:00, вс: 09:00-16:00</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Л.Руденко, 10г</td>
+<td>+38 095 273 71 01</td>
+<td>пн.-пт.: 08:30 – 20:00, сб.-вс.: .: 08:30 – 18:00</td>
+</tr>
+<tr>
+<td>Офис на автовокзале</td>
+<td>пр-т.Науки,1/2</td>
+<td>+38 044 451 86 28</td>
+<td>пн-пт: 09:00-17:30, сб-вс: 09:00-14:30, билетная касса: 7:00-23:30</td>
+</tr>
+<tr>
+<td>Офис по приему груза</td>
+<td>пр-т Победы 67</td>
+<td>+38 050 445 28 85</td>
+<td>пн-пт: 09:00-18:00, сб: 09:00-13:00</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Драйзера, 21</td>
+<td>+38 044 515 08 45</td>
+<td>пн-вс: 09:00-20:00</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Волынская, 53</td>
+<td>+38 050 468 91 60</td>
+<td>пн-вс: 9:00-20:00</td>
+</tr>
+<tr>
+<td>Администрация</td>
+<td>ул.Чистяковская, 30</td>
+<td>+38 044 536 00 55, +38 044 200 16 20</td>
+<td>пн-пт: 09:00-18:00
+сб: 09:00-13:00
+вс: выходной</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>пр. Генерала Ватутина 2т</td>
+<td>+38 050 445 29 42</td>
+<td>пн-пт: 09:00-20:00; сб: 09:00 -19:00; вс: выходной</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>пр. Науки, 57</td>
+<td>+38 050 357 34 93</td>
+<td>пн-пт: 09:00-20:00, сб-вс: 09:00-18:00</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>пр-т Академика Королева, 1</td>
+<td>+38 095 273 70 97</td>
+<td>пн.-пт.: 08:30 – 19:00, сб.-вс.: .: 08:30 – 18:00</td>
+</tr>
+<tr><td class="area em" colspan="4">А/П Борисполь</td></tr>
+<tr>
+<td>Офис в аэропорту</td>
+<td>Аэропорт "Борисполь", терминал "B"</td>
+<td>+38 044 230 00 71</td>
+<td>круглосуточно</td>
+</tr>
+<tr><td class="area em" colspan="4">Александрия</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Луначарского, 34</td>
+<td>+38 05235 4 13 45, +38 050 694 14 34</td>
+<td>пн-пт: 8:00-18:00
+сб-вс: 8:00-13:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Алчевск</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Тельмана, 13а</td>
+<td>+38 095 0504 719</td>
+<td>пн-сб: 09:00-18:00, вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Антрацит</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Петровского, 12</td>
+<td>+38 050 413 44 20</td>
+<td>пн-пт: 09:00-18:00, сб. 09:00-15:00, вс: выходной.</td>
+</tr>
+<tr><td class="area em" colspan="4">Ахтырка</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Киевская 20</td>
+<td>+38 095 275 37 23</td>
+<td>пн-вс: 08:00-18:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Белая Церковь</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Киевская, 50</td>
+<td>+38 04563 5 92 07</td>
+<td>пн-пт: 09:00-19:00
+сб-вс: 09:00-17:00</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. 1-я Совхозная, 2 (массив Леваневского)</td>
+<td>+38 050 448 62 57</td>
+<td>пн-пт: 09:00 - 18:00, сб: 10:00 -14:00;  вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Белгород-Днестровский</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Лазо, 31</td>
+<td>+38 04849 3 59 20</td>
+<td>пн-пт: 09:00-19:00
+сб: 09:00-18:00
+вс: 09:00-14:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Бердичев</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Винницкая, 37 (бывшая ул. Свердлова)</td>
+<td>+38 095 272 80 99</td>
+<td>пн-вс: 09:00-18:00, обед 13:00-14:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Бердянск</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Мазина, 45-а</td>
+<td>+38 06153 4 43 03</td>
+<td>пн-пт: 08:00 - 20:00 (приём**: до 19:00);
+
+сб-вс: 08:00 - 17:00 (приём**: до 16:00)</td>
+</tr>
+<tr><td class="area em" colspan="4">Бершадь</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Красноармейская 15</td>
+<td>+38 050 414 58 04</td>
+<td>пн-пт: 09:00-18:00 (обед 13:00-13:30), сб: 9:00-15:00, вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Богодухов</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Леонова, 1 (Богодуховская автостанция)</td>
+<td>+38 050 412 97 30</td>
+<td>пн-пт: 9:00-18:00, сб: 9:00-16:00, вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Борисполь</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Январская 1</td>
+<td>+38 050 447 44 60</td>
+<td>пн-пт 9:00-18:00, суб.10:00-14:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Боярка</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Шевченка, 176</td>
+<td>+38 044 406 08 11, +38 044 406 08 06</td>
+<td>пн-вс: 08:00-21:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Бровары</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Кирова, 55</td>
+<td>+38 04594 5 22 37</td>
+<td>пн-сб: 09:00-20:00
+вс: 09:00-15:00
+обед 13:00-13:30</td>
+</tr>
+<tr><td class="area em" colspan="4">Варва</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Мира, 11</td>
+<td>+38 050 468 91 61</td>
+<td>пн-сб: 09:00 - 18:00; вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Васильков</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Гоголя, 5</td>
+<td>+38 04571 2 10 65</td>
+<td>пн-пт: 09-18 (обед 13:00-13:30), сб: 09-15, вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Винница</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Карла Маркса, 50</td>
+<td>+38 0432 63 08 30</td>
+<td>пн-пт: 09:00-18:00, сб: 09:00-17:00, вс: 10:00-14:00, обед: 13:00-13:30</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. 30-летия Победы, 16 (территория фабрики "Подолье")</td>
+<td>+38 0432 46 72 55</td>
+<td>пн-сб: 08:30-19:00, вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Владимир-Волынский</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Луцкая, 117</td>
+<td>+38 050 415 72 08  , +38 03342 3 09 08</td>
+<td>пн-сб 09:00 – 19:00, обед 13:00-14:00 вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Вознесенск</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Октябрьской революции,48-а</td>
+<td>+38 05134 4 26 13</td>
+<td>пн-пт: 08:00-19:30
+сб: 8:00-15:30
+вс: 8:00-13:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Волочиск</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Уральских Танкистов 1А</td>
+<td>+38 038 454 17 47</td>
+<td>пн-пт: 09:00-18:00, сб: 09:00-14:00, вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Вышгород</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Грушевского, 6-а</td>
+<td>+38 095 284 39 06</td>
+<td>пн-пт: 09:00-18:00, сб. 09:00-13:00, вс: выходной.</td>
+</tr>
+<tr><td class="area em" colspan="4">Гайворон</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Коммунар, 2а</td>
+<td>+38 050 381 16 63</td>
+<td>пн-пт: 09:00-16:00, сб: 09:00-14:00; вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Глухов</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Гоголя, 10</td>
+<td>+38 095 272 80 90</td>
+<td>пн-пт: 08:00-17:00
+сб: 9:00-15:00
+обед 13:00-13:30</td>
+</tr>
+<tr><td class="area em" colspan="4">Горловка</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Катеринича, 18</td>
+<td>+38 06242 4 64 28</td>
+<td>пн-сб: 08:00-18:00
+вс: 08:00-15:00
+обед 13:00-13:30</td>
+</tr>
+<tr><td class="area em" colspan="4">Городня</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. 1-го Мая, 8/2</td>
+<td>+38 095 275 23 81</td>
+<td>пн-пт: 09:00-18:00, обед 13:00-13:30, сб: 09:00-14:00, вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Джанкой</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Джанкойская, 9</td>
+<td>+38 050 387 43 70</td>
+<td>пн-пт: 09:00-18:00
+сб: 9:00-15:00
+обед 13:00-13:30</td>
+</tr>
+<tr><td class="area em" colspan="4">Днепродзержинск</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Сыровца, 46</td>
+<td>+38 0569 58 81 18</td>
+<td>пн-вс: 09:00-20:00</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Локтюкова, 3 (грузы до 40 кг, офис на автовокзале)</td>
+<td>+38 05692 3 14 38</td>
+<td>пн-вс: 09:00-19:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Днепропетровск</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>пр-т Героев, 12</td>
+<td>+38 050 41 30 633</td>
+<td>пн-пт: 08:00 - 20:00; сб: 08:00 - 19:00; вс: выходной</td>
+</tr>
+<tr>
+<td>Офис на автовокзале</td>
+<td>ул.Курчатова, 10</td>
+<td>+38 056 778 39 79</td>
+<td>пн-вс: 08:00 - 20:00</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Баррикадная 5/7 (район Цветочного рынка)</td>
+<td>+38 095 284 82 30</td>
+<td>пн-пт: 8:00-20:00, сб: 8:00-18:00, вс: выходной</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Макарова, 23-а (ок. стад. "Метеор")</td>
+<td>+38 0562 31 65 63, +38 0562 33 94 15</td>
+<td>пн-пт: 8:00-20:00, сб: 8:00-19:00, вс: 8:00-18:00</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Караваева, 11а</td>
+<td>+38 056 371 03 53, +38 056 371 03 63</td>
+<td>пн-вс: 08:00-20:00</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Каруны 3</td>
+<td>+38 056 725 16 86</td>
+<td>пн-пт: 8:00-20:00, сб: 8:00-19:00, вс: 8:00-18:00</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Бердянская, 65 (ул. Белостоцкого 85а)</td>
+<td>+38 050 187 94 54</td>
+<td>пн-пт: 08:00 - 20:00; сб: 08:00 - 19:00; вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Донецк</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Аксакова, 21</td>
+<td>+38 0622 66 71 39, +38 0622 66 14 21</td>
+<td>пн-вс: 08:00-20:00</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Полиграфическая, 1</td>
+<td>+38 050 332 88 02</td>
+<td>пн-сб: 08:00-19:00, вс: выходной</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Узловая, 12</td>
+<td>+38 062 208 15 00, +38 062 208 14 00</td>
+<td>пн-пт: 09:00-19:00 сб: 09:00-18:00 вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Дрогобыч</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Трускавецкая, 71</td>
+<td>+38 050 475 05 36</td>
+<td>пн-пт: 9:00-18:00
+сб: 9:00-15:00
+обед 13:00-14:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Дружковка</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Московская, 227</td>
+<td>+38 050 468 91 46</td>
+<td>пн-пт: 09:00-18:00 сб: 09:00-15:00 вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Евпатория</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>Межквартальный проезд, 2а</td>
+<td>+38 06569 2 04 28</td>
+<td>пн-пт: 08:00-17:00
+сб: 8:00-15:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Житомир</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>пер.Мебельный, 3а</td>
+<td>+38 0412 36 23 99</td>
+<td>пн-вс: 08:00 - 20:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Запорожье</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Гудыменко, 28 (1-й этаж)</td>
+<td>+38 050 413 44 16</td>
+<td>пн-сб: 09:00 - 20:00;  вс: 09:00 - 18:00</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Чапаева, 33</td>
+<td>+38 061 764 41 24, +38 061 764 25 20</td>
+<td>пн-сб: 08:30-19:30
+вс: 09:00-17:00</td>
+</tr>
+<tr>
+<td>Офис на автовокзале</td>
+<td>пр-т.Ленина, 20</td>
+<td>+38 0617 64 25 58</td>
+<td>пн-вс: 07:00-20:00</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Ферросплавная, 38</td>
+<td>+38 061 233 14 10, +38 050 332 90 65</td>
+<td>пн-сб: 09:00-19:30 вс: 09:00-17:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Золотоноша</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Шевченко, 153</td>
+<td>+38 050 358 83 29</td>
+<td>пн-пт: 8:00-17:00, сб-вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Ивано-Франковск</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Гетмана Мазепы, 168</td>
+<td>+38 0342 75 30 39</td>
+<td>пн-пт: 09:00-19:00
+сб: 09:00-18:00
+вс: 10:00-15:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Измаил</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Короленко, 45</td>
+<td>+38 04841 7 84 09</td>
+<td>пн-пт: 09:00-19:00
+сб: 9:00-18:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Изюм</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Паромная, 1</td>
+<td>+38 050 414 57 93, +38 05743 286 66</td>
+<td>пн-пт: 10:00-18:00, сб: 10:00-17:00, вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Изяслав</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Грушевского, 1</td>
+<td>+38 095 275 23 88</td>
+<td>пн-пт: 09:00-19:00, сб-вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Ильичевск</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Александрийская, 6-б</td>
+<td>+38 04868 2 40 65</td>
+<td>пн-пт: 09:00-19:00
+сб-вс: 9:00-18:00
+</td>
+</tr>
+<tr><td class="area em" colspan="4">Ирпень</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Центральная, 24</td>
+<td>+38 095 273 70 96</td>
+<td>пн-пт: 09:00-19:00 сб: 09:00-14:00; вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Калуш</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Шептицкого, 4</td>
+<td>+38 099 377 62 73, +38 095 283 64 47</td>
+<td>пн-пт: 10:00-17:30 сб: 10:00-15:00 вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Каменец-Подольский</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Пушкинская, 53</td>
+<td>+38 097 340 86 85</td>
+<td>пн-пт: 09:00-18:00
+сб: 09:00-14:00
+вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Каховка</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Кирова, 2-а</td>
+<td>+38 095 272 80 93</td>
+<td>пн-пт: 09:00-18:00
+сб-вс: 09:00-16:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Керч</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Набережная, 1</td>
+<td>+38 06561 2 21 37</td>
+<td>пн-пт: 09:00-17:00
+сб: 09:00-14:00
+вс: виходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Кировоград</td></tr>
+<tr>
+<td>Офис по приему груза</td>
+<td>ул.Шевченка, 54 (грузы до 30 кг)</td>
+<td>+38 0522 24 74 53</td>
+<td>пн-вс: 08:00-19:00</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Выставочная, 1-а</td>
+<td>+38 0522 35 77 48</td>
+<td>пн-вс: 08:30-19:00</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Маланюка 25</td>
+<td>+38 066 388 28 37</td>
+<td>пн-пт: 09:00-18:00, сб-вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Ковель</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Варшавская, 1</td>
+<td>+38 03352 7 19 55</td>
+<td>пн-пт: 09:00-19:00
+сб: 09:00-18:00
+обед 13:00-14:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Коломыя</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Русина, 4-а</td>
+<td>+38 050 387 42 70</td>
+<td>пн-сб: 08:00-17:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Конотоп</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Батуринская, 22а</td>
+<td>+38 050 387 35 52</td>
+<td>пн-пт: 09:00-18:00
+сб: 09:00-15:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Коростень</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Карла Либкнехта, 1 (здание УТОС).</td>
+<td>+38 050 445 29 43</td>
+<td>пн-пт: 09:00-18:00
+сб: 09:00-12:00
+обед 13:00-14:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Корюковка</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Вокзальная, 23</td>
+<td>+38 050 412 97 38</td>
+<td>пн-пт: 09:00-18:00, обед 13:00-13:30, сб: 09:00-14:00, вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Котовск</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.50-летия Октября, 5</td>
+<td>+38 04862 2 17 64</td>
+<td>пн-сб: 09:00-18:00, вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Краматорск</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Марата, 7</td>
+<td>+38 06264 3 55 66</td>
+<td>пн-сб: 09:00-18:00
+вс: 09:00-13:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Красноармейск</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Шевченко, 2</td>
+<td>+38 050 410 75 53</td>
+<td>пн-пт: 09:00 – 18:00; сб, вс: 09:00 - 13:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Краснодон</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>пр-т. 60-летия СССР, 2 (территория АТП 10914)</td>
+<td>+38 050 332 87 93</td>
+<td>пн-пт: 09:00-18:00 сб: 09:00-15:00 вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Красный Луч</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Горная, 2-а</td>
+<td>+38 050 413 44 17</td>
+<td>пн-пт: 09:00-18:00, сб. 09:00-15:00, вс: выходной.</td>
+</tr>
+<tr><td class="area em" colspan="4">Кременчуг</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Киевская, 1 (1-й Песчаный Тупик)</td>
+<td>+38 0536 78 09 31</td>
+<td>пн-пт: 08:00-20:00; сб: 08:00-18:00; вс: выходной</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Бойко, 7 (Новоивановский рынок)</td>
+<td>+38 0536 78 04 80</td>
+<td>вт-вс: 08:00-16:00, пн: выходной</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Воровского, 32/6</td>
+<td>+38 05366 2 21 03</td>
+<td>пн-вс: 08:00-20:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Кривой Рог</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Мудреная, 1-а</td>
+<td>+38 0564 40 08 99, +38 0564 74 39 20</td>
+<td>пн-пт: 09:00-19:00
+сб-вс: 09:00-17:00
+обед 14:00-14:30</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. 23-го Февраля 60а (рынок "Интернат")</td>
+<td>+38 050 358-07-32</td>
+<td>пн-пт: 09:00-17:00 сб-вс: выходной обед 14:00-14:30</td>
+</tr>
+<tr><td class="area em" colspan="4">Кролевец</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Октябрьская 19</td>
+<td>+38 050 475 14 98</td>
+<td>пн-пт: 09:00-18:00
+сб: 09:00-14:00
+обед 13:00-13:30</td>
+</tr>
+<tr><td class="area em" colspan="4">Лисичанск</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Макаренко, 208</td>
+<td>+38 050 445 28 70</td>
+<td>пн-пт: 09:00-19:00, сб: 09:00-15:00, вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Лубны</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Советская, 157</td>
+<td>+38 0536 17 41 40</td>
+<td>пн-вс: 08:00-20:00, обед 13:00-13:30</td>
+</tr>
+<tr><td class="area em" colspan="4">Луганск</td></tr>
+<tr>
+<td>Офис на автовокзале (приём и выдача мелкого багажа)</td>
+<td>ул. Оборонная, 28</td>
+<td>+38 0642 50 28 17</td>
+<td>пн-пт: 09:00-17:00, сб-вс: 09:00-15:30</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>пер.Краснодонский, 3а</td>
+<td>+38 0642 59 95 08, +38 0642 34 14 85</td>
+<td>пн-пт: 09:00-19:00
+сб-вс: 9:00-17:00</td>
+</tr>
+<tr>
+<td>Офис по приему груза</td>
+<td>ул.21-ой линии, 1</td>
+<td>+38 0642 52 32 66</td>
+<td>пн-сб: 08:00-20:00, вс: 09:00-17:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Лутугино</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>пер. Спортивный, 2/2</td>
+<td>+38 050 410 50 17</td>
+<td>пн-пт: 09:00-18:00; сб: 09:00-15:00; вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Луцк</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Привокзальная 10</td>
+<td>+38 03322 3 38 85, +38 03322 73 51 07</td>
+<td>пн-вс: 09:00-19:00, обед 13:00-13:30</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Ровенская, 25</td>
+<td>+38 050 468 91 64</td>
+<td>пн-вс: 09:00-19:00, обед 13:00-13:30</td>
+</tr>
+<tr><td class="area em" colspan="4">Львов</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Стрыйская, 109</td>
+<td>+38 0322 94 85 95</td>
+<td>пн-сб: 08:00-20:00
+перерыв: 12:30-13:00
+вс: выходной</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>просп. Красной Калины, 44</td>
+<td>+38 095 283 64 40</td>
+<td>пн-пт: 09:00-20:00  сб: 09:00-18:00  вс. выходной</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Городоцкая 355/6</td>
+<td>+38 032 295 70 52</td>
+<td>пн-пт: 08:00-20:00  сб: 09:00-20:00  вс: 09:00-19:00</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Сахарова, 42 (выдача грузов до 30 кг)</td>
+<td>+38 0322 97 65 15</td>
+<td>пн-сб: 08:00-20:00, вс: выходной</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Новознесенская, 2</td>
+<td>+38 0322 52 90 03</td>
+<td>пн-пт: 08:00-20:00 сб: 09:00-20:00  вс: 09:00-19:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Макеевка</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Ленина, 84/16 (бывший гастроном "Макеевский", 18-я линия)</td>
+<td>+38 050 415 72 12</td>
+<td>пн-сб 09:00 – 18:00, вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Малин</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Грушевского, 47</td>
+<td>+38 050 445 28 72, +38 04133 5 24 92</td>
+<td>пн-пт: 9:18, сб: 09-13, вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Мариуполь</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Артема, 103</td>
+<td>+38 0629 47 04 20, +38 0629 47 04 21</td>
+<td>пн-пт: 09:00-18:00
+сб-вс: 9:00-15:00
+обед: 13:00-13:30</td>
+</tr>
+<tr><td class="area em" colspan="4">Мелитополь</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Фрунзе, 138</td>
+<td>+38 050 443 04 97, +38 0619 44 05 41</td>
+<td>пн-сб: 09:00-19:00
+вс: 09:00-15:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Мена</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Ленина, 28/2 (напротив Троицкого рынка)</td>
+<td>+38 050 387 40 55</td>
+<td>пн-пт: 9:00-18:00, сб-вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Миргород</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Котляревского, 7</td>
+<td>+38 050 3333 051</td>
+<td>пн-вс: 8.00-18.00, обед: 13:00-13:30</td>
+</tr>
+<tr><td class="area em" colspan="4">Мостиска</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Зеленая, 2в</td>
+<td>+38 095 283 64 49</td>
+<td>пн-пт: 09:00-18:00 сб: 09:00-15:00 вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Мукачево</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Индустриальная 1Б</td>
+<td>+38 095 273 08 19</td>
+<td>пн-сб: 09:00-18:00
+вс: 10:00-15:00
+обед: 13:30-14:30</td>
+</tr>
+<tr><td class="area em" colspan="4">Нежин</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Франка, 18 (На территории хлебозавода)</td>
+<td>+38 04631 2 32 26</td>
+<td>пн-пт: 09:00-18:00
+сб: 09:00-14:00
+обед: 13:30-14:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Нетешин</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td> ул. Шевченко, 26</td>
+<td>+38 095 275 23 94</td>
+<td> пн-пт: 09:00 - 19:00, сб-вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Николаев</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Большая Морская, 108/4</td>
+<td>+38 0512 50 02 11</td>
+<td>пн-пт: 08:00-19:00, сб: 08:00-18:00, вс: выходной</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Чигрина, 39</td>
+<td>+38 0512 71 70 59</td>
+<td>пн-вс: 08:00-20:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Никополь</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Героев Чернобыля, 106</td>
+<td>+38 0566 63 97 79</td>
+<td>пн-пт: 09:00-18:00 сб: 09:00-16:00 вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Новая Каховка</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Промышленная, 5</td>
+<td>+38 050 332 90 57</td>
+<td>пн-пт: 09:00-18:00 сб-вс: 09:00-16:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Нововолынск</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Пирогова 7</td>
+<td>+38 03344 4 90 65</td>
+<td>пн-сб: 09:00-18:00
+вс: выходной
+обед: 13:00-13:30</td>
+</tr>
+<tr><td class="area em" colspan="4">Новоград - Волынский</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Шевченко, 54</td>
+<td>+38 04141 5 20 17</td>
+<td>пн-пт: 09:00-18:00
+сб: 09:00-16:00
+вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Новомосковск</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>пл. Победы, 17</td>
+<td>+38 050 448 62 01</td>
+<td>пн-пт: 08:00 - 19:00, сб: 09:00 -18:00;  вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Обухов</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Киевская, 78</td>
+<td>+38 04572 5 64 14</td>
+<td>пн-пт: 9:00-18:00 сб: 9:00-15:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Одесса</td></tr>
+<tr>
+<td>Офис по приему груза</td>
+<td>7-й км, Автостоянка №1</td>
+<td>+38 050 414 58 06</td>
+<td>сб-чт: 08:00-16:00, пт: выходной</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Раскидайловская, 18 (продажа билетов)</td>
+<td>+38 0482 37 73 92</td>
+<td>пн-пт: 09:00-20:00, сб: 09:00-18:00, вс:выходной</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Паустовского 11а (продажа билетов)</td>
+<td>+38 048 701 90 00, +38 048 7014530</td>
+<td>пн-пт: 09:00 - 20:00; сб: 09:00 - 19:00; вс:  выходной</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>пер. Строительный 3 (продажа билетов)</td>
+<td>+38 048 704 90 00, +38 048 7375400</td>
+<td>пн-пт: 08:00-21:00; сб-вс: 08:00-20:00</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>7-й км, ТВК «Новый Город», Базовая, 17</td>
+<td>+38 050 357 37 79</td>
+<td>сб-чт: 08:00-16:00, пт: выходной</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Центральный Аэропорт, 2а</td>
+<td>+38 048 777 67 84</td>
+<td>пн-пт: 09:00-20:00, сб: 09:00-18:00, вс:выходной</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>7-й км «Воинская» ТВК</td>
+<td>+38 095 271 22 17</td>
+<td>сб-чт: 08:00-16:00, пт: выходной</td>
+</tr>
+<tr>
+<td>Офис по приему груза</td>
+<td>7-й км, Автостоянка №3 за ул.Розовой</td>
+<td>+38 095 271 45 21</td>
+<td>сб-чт: 08:00-16:00, пт: выходной</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>пр-т  Академика Глушко, 29 (продажа билетов)</td>
+<td>+38 048 7706770</td>
+<td>пн-пт: 09:00-20:00, сб: 09:00-18:00, вс:выходной</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>пл.Старосенная, 2 (авт. "Привокзальная", возле ж/д вокзала (Одесса-Главная, 35), продажа билетов)</td>
+<td>+38 048 701 90 00</td>
+<td>пн-вс:  05:45-01:30</td>
+</tr>
+<tr><td class="area em" colspan="4">Острог</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Мануильского, 35 (на территории рынка)</td>
+<td>+38 095 275 23 90</td>
+<td>пн-пт: 09:00-19:00, сб-вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Павлоград</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Шутя, 25-а</td>
+<td>+38 05632 6 16 44</td>
+<td>пн-пт: 09:00-18:00
+сб-вс: 9:00-15:00
+обед: 13:00-13:30</td>
+</tr>
+<tr><td class="area em" colspan="4">Первомайск</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Желябова, 3</td>
+<td>+38 050 387 52 09, +38 093 981 39 29</td>
+<td>пн-пт: 08:00-18:00 (прием до 17:30) 
+сб: 08:00-16:00 
+вс: выходной
+обеденный перерыв: 13:00-13:30</td>
+</tr>
+<tr><td class="area em" colspan="4">Переяслав-Хмельницкий</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Сковороды, 68/38</td>
+<td>+38 050 387 39 50, +38 095 817 32 61</td>
+<td>пн-пт: 9:00-18:00
+сб: 9:00-15:00
+обед: 13:00-13:30</td>
+</tr>
+<tr><td class="area em" colspan="4">Пирятин</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Красноармейская, 154</td>
+<td>+38 0 5358 2 86 94, +38 050 387 46 78</td>
+<td>пн-вс: 8:00-20:00, обед: 13:00-13:30</td>
+</tr>
+<tr><td class="area em" colspan="4">Полтава</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Краснофлотская, 19</td>
+<td>+38 0532 560 550</td>
+<td>пн-вс: 8:00-20:00</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Великотырновская, 7 (офис на автовокзале)</td>
+<td>+38 0532 63 95 10, +38 0532 63 95 20</td>
+<td>пн-вс: 08:00-21:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Прилуки</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Киевская, 369</td>
+<td>+38 050 387 46 71</td>
+<td>пн-пт: 08:00-19:30
+сб: 08:00-17:00
+вс: 09:00-14:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Рава-Русская</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Грушевского 26</td>
+<td>+38 050 384 75 24</td>
+<td>пн-пт: 09:00-18:00
+сб: 09:00-15:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Репки</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Святониколаевская, 117-б</td>
+<td>+38 095 275 23 82</td>
+<td>пн-пт: 09:00-18:00, обед 13:00-13:30, сб: 09:00-14:00, вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Ровно</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Набережная, 32</td>
+<td>+38 0362 22 69 10</td>
+<td>пн-вс: 09:00 - 19:30</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Дубенская, 46</td>
+<td>+38 095 275 23 95</td>
+<td>пн-вс: 8:00-20:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Ромны</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>бульв. Московский, 11ж</td>
+<td>+38 050 387 42 20, +38 0 54 48 5 27 43</td>
+<td>пн-пт: 8:30-19:00, сб: 8:30-15:00, обед: 13:00-13:30</td>
+</tr>
+<tr><td class="area em" colspan="4">Самбор</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Шевченко 52/9</td>
+<td>+38 095 283 64 48</td>
+<td>пн-пт: 09:00-18:00 сб: 09:00-15:00 вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Свердловск</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Энгельса, 51-а</td>
+<td>+38 050 332 87 92</td>
+<td>пн-пт: 09:00-18:00 сб: 09:00-15:00 вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Севастополь</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>Фиолентовское шоссе, 1</td>
+<td>+38 0692 92 08 59</td>
+<td>пн-cб: 09:00-19:00
+вс: 10:00-14:00
+обед: 15:00-15:30</td>
+</tr>
+<tr><td class="area em" colspan="4">Северодонецк</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Заводская, 37</td>
+<td>+38 06452 4 42 72</td>
+<td>пн-сб: 09:00-18:00, вс: 09:00-16:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Симферополь</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Генерала Васильева, 44-Б</td>
+<td>+38 050 332 88 16</td>
+<td>пн-сб: 09:00-20:00 вс: 09:00-16:00 обед: 13:00-13:30</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>пр-т. Вернадского, 63</td>
+<td>+38 0652 63 20 57</td>
+<td>пн-сб: 09:00-20:00
+вс: 09:00-16:00
+обед: 13:00-13:30</td>
+</tr>
+<tr><td class="area em" colspan="4">Славута</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Соборности, 26/41</td>
+<td>+38 095 275 23 84</td>
+<td>пн-пт: 09:00-19:00, сб-вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Славутич</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Черниговская, 10</td>
+<td>+38 050 414 58 36</td>
+<td>пн-пт: 09:00-18:00, сб: 10:00-15:00, вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Славянск</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Ленинградская, 67</td>
+<td>+38 050 387 39 89</td>
+<td>пн-сб: 09:00-18:00
+вс: 09:00-13:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Смела</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Октябрьская, 81</td>
+<td>+38 04733 4 13 47, +38 097 929 61 70</td>
+<td>пн-пт: 09:00-18:00
+сб-вс: 09:00-14:00
+обед: 13:00-14:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Стрий</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Вокзальная, 148-б</td>
+<td>+38 03245 5 83 83</td>
+<td>пн-пт: 09:00-18:00
+сб: 09:00-17:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Сумы</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Пушкина, 55</td>
+<td>+38 0542 60 05 38, +38 0542 65 90 89</td>
+<td>пн-сб: 08:30-19:00
+вс: 08:30-14:00
+обед: 13:00-13:30</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Воровского, 20</td>
+<td>+38 095 283 64 43</td>
+<td>пн-сб: 08:30-19:00 вс: 08:30-14:00, обед: 13:00-13:30</td>
+</tr>
+<tr><td class="area em" colspan="4">Тернополь</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Объездная, 16 (напротив ул. Троллейбусная 17)</td>
+<td>+38 0352 55 00 48</td>
+<td>пн-пт: 09:00-19:00
+сб: 09:00-16:30
+вс: 09:00-14:00
+обед 14:00-15:00</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Полесская, 9</td>
+<td>+38 050 332 88 15</td>
+<td>пн-пт: 09:00-19:00 сб: 09:00-16:30 вс: 09:00-14:00 обед 14:00-15:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Ужгород</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Богомольца, 19а</td>
+<td>+38 091 316 26 15</td>
+<td>пн-сб: 8:30-18:30 вс: 9:00-14:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Умань</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Тыщика, 40</td>
+<td>+38 04744 3 98 76</td>
+<td>пн-вс: 08:00-20:00, обед 13:30-14:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Фастов</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Советская, 27</td>
+<td>+38 050 333 30 49, +38 093 967 14 20</td>
+<td>пн-пт 9:00-18:00, суб. 9:00-13:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Феодосия</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>пер. Тамбовский, 1а</td>
+<td>+38 095 189 70 10</td>
+<td>пн-пт: 08:00-17:00
+сб: 10:00-14:00
+обед 13:00-14:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Фрунзовка</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Горького, 8</td>
+<td>+38 050 413 06 37</td>
+<td>пн-пт: 08:30 - 18:00; сб: 08:30 - 15:00; вс: 08:30 - 15:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Харьков</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Чугуевская, 58</td>
+<td>+38 057 736 01 49, +38 057 736 01 44</td>
+<td>пн-вс: выдача 09:00-20:00, прием 09:00-19:00</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Механизаторская, 6</td>
+<td>+38 050 445 26 99</td>
+<td>пн-пт: 09:00-18:30, сб: 09:00-16:00</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Якира, 109, рынок "Барабашова"</td>
+<td>+38 057 738 15 97</td>
+<td>пн-сб: 09:00-19:00, вс: 09:00-16:00</td>
+</tr>
+<tr>
+<td>Офис по приему груза</td>
+<td>ул. Энгельса, 8</td>
+<td>+38 057 712 25 59</td>
+<td>пн-пт: 09:00-19:00, сб,вс: выходной</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Елены Стасовой, 17 (рынок "Барабашово", афганская площадка)</td>
+<td>+38 050 315 32 46</td>
+<td>вт-пт: 08:00-17:00, сб: 08:00-15:00, вс: 09:00-15:00, пн: выходной.</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>пгт. Песочин,  площадь Ю.Кононенко, 1, торговое место №13, ряд №П (авторынок "ЛОСК")</td>
+<td> +38 050 315 37 44</td>
+<td>вт-вс: 09:00 - 16:00;  пн:  выходной</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>Алексеевская ярмарка,  пр. Людвига Свободы, 43 (пересечение с пр. Победы)</td>
+<td>+38 050 357 34 69</td>
+<td>пн-пт: 09:00-19:00, сб: 09:00-16:00, вс: выходной</td>
+</tr>
+<tr>
+<td>Офис на автовокзале</td>
+<td>пр-т.Гагарина, 22 (прием мелкого груза)</td>
+<td>+38 057 732 54 71</td>
+<td>пн-вс: 08:30-20:00</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Мира, 20 (ХТЗ)</td>
+<td>+38 050 442 62 66</td>
+<td>пн-пт: 09:00-19:00, сб: 09:00-16:00, вс: выходной</td>
+</tr>
+<tr>
+<td>Офис по приему груза</td>
+<td>ул.Кузнечная, 4/6 (груз до 25 кг)</td>
+<td>+38 057 771 07 57, +38 057 771 07 73</td>
+<td>пн-сб: 09:00-19:00, вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Херсон</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Ильи Кулика, 77</td>
+<td>+38 0552 31 01 19, +38 0552 31 03 30</td>
+<td>пн-пт: 08:00-20:00
+сб-вс: 08:00-19:00</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. К.Цеткин, 18 (рядом с библиотекой, расположенной по ул. Карла Маркса, 97)</td>
+<td>+38 0552 49 54 39, +38 050 332 89 96</td>
+<td>пн-пт: 08:00-20:00 сб-вс: 09:00-19:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Хмельницкий</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Заводская, 163</td>
+<td>+38 0382 74 67 50</td>
+<td>пн-пт:09:00-19:00
+сб-вс: 09:00-15:00
+обед 13:00-13:30</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>Львовское шоссе, 12</td>
+<td>+38 050 383 85 44</td>
+<td>пн-пт: 09:00-18:00 сб: 09:00-15:00 вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Червоноград</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Богдана Хмельницкого, 61</td>
+<td>+38 050 414 57 95</td>
+<td>пн-пт: 9:00-18:00, сб: 9:00-16:00, обед 13:00-14:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Черкассы</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Луценко 3</td>
+<td>+38 0472 63 09 49, +38 0472 63 09 30</td>
+<td>пн-пт: 8:00-19:00, сб-вс: 8:00-16:00</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул.Одесская, 8</td>
+<td>+38 0472 32 49 56</td>
+<td>пн-пт: 09:00-18:00
+сб,вс: выходной
+обед 13:00-14:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Чернигов</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Инструментальная, 13</td>
+<td>+38 050 332 88 05</td>
+<td>пн-пт: 08:00-19:00 сб: 09:00-18:00 вс: 09:00-13:00 обед 13:00-13:30</td>
+</tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Подвальная, 23</td>
+<td>+38 0462 69 93 93</td>
+<td>пн-пт: 08:00-19:00
+сб: 09:00-18:00
+вс: 09:00-13:00
+обед 13:00-13:30</td>
+</tr>
+<tr><td class="area em" colspan="4">Черновцы</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Миргородская 12 А</td>
+<td>+38 0372 589 370, +38 0372 589 371</td>
+<td>пн-пт: 09:00-18:00
+сб: 09:00-16:00
+вс: 10:00-14:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Чугуев</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Карла Либкнехта, 45</td>
+<td>+38 095 284 39 08</td>
+<td>пн-сб: 09:00-18:00; вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Шепетовка</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>Староконстантиновское шоссе, 23-а</td>
+<td>+38 095 275 23 92</td>
+<td>пн-пт: 09:00-19:00, сб-вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Шостка</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>пер. Шевченко 6-а</td>
+<td>+38 050 447 96 43</td>
+<td>пн-пт: 09:00-18:00
+сб: 10:00-16:00
+обед 13:00-13:30</td>
+</tr>
+<tr><td class="area em" colspan="4">Щорс</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Ленина, 25</td>
+<td>+38 095 275 23 80</td>
+<td>пн-пт: 09:00-18:00, обед 13:00-13:30, сб: 09:00-14:00, вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Энергодар</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Комсомольская, 34</td>
+<td>+38 050 358 85 83</td>
+<td>пн-пт: 08:30 - 18:00; сб: 08:30 - 16:00; вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Южноукраинск</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Молодежная 12 (ул. Брандербург, 1)</td>
+<td>+38 050 387 36 40</td>
+<td>пн-пт: 9:00-18:00
+сб: 9:00-16:00
+вс: 9:00-13:00</td>
+</tr>
+<tr><td class="area em" colspan="4">Южный</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Химиков, 19-а (павильон №160)</td>
+<td>+38 050 413 05 93</td>
+<td>пн-сб: 09:00 - 18:00, обед: 13:00 - 13:30, вс: выходной</td>
+</tr>
+<tr><td class="area em" colspan="4">Ялта</td></tr>
+<tr>
+<td>Офис по приему и выдаче груза</td>
+<td>ул. Тимирязева 27 Б</td>
+<td>+38 0654 27 52 55</td>
+<td>пн-сб: 9:00-19:00, обед 13:00-13:30</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="sidebar">
+<div class="dbox d-blue">
+<big><a href="/Express_dostavka_gruza_i_pochty">Экспресс доставка груза и почты</a></big><p><a href="/Kalkulyator_stoimosti">Калькулятор стоимости</a>, <a href="/Dostavka_nalozhennym_platezhom">Доставка наложенным платежом</a>, <a href="/Gde_moi_gruz">Где мой груз?</a>, <a href="/Dostavka_ot_i_do_dveri">Доставка от и до двери</a>, <a href="/Predstavitelstva" class="current">Представительства</a></p>
+</div>
+<div class="dbox d-red">
+<big><a href="/Passazhyrskiye_perevozki">Пассажирские перевозки</a></big><p><a href="/Raspisaniye_is_stoimost">Расписание и стоимость</a>, <a href="/Avtobusy">Автобусы</a>, <a href="/Zabronirovat_bilety">Забронировать билеты</a>, <a href="/Kupit_bilety">Купить билеты</a></p>
+</div>
+<div class="dbox d-lightblue">
+<big><a href="/Dopolnitelno">Дополнительно</a></big><p><a href="/Arenda_avtobusa">Аренда автобуса</a>, <a href="/Prodazha_transporta">Продажа транспорта</a>, <a href="/Autolux_journal">Журнал компании "Автолюкс"</a></p>
+</div>
+<div class="office-map fl-left"><a href="/Predstavitelstva"><img src="/Autolux/inc/Pages/PatternStd/img/i_office_map.png" width="303" height="204" alt="Представительства компании" title="Представительства"></a></div>
+<script type="text/javascript">
+                    $(document).ready(function(){
+                        $('#loading-ajax').fadeTo('fast', 1);
+                        $.ajax({
+                            type: "GET",
+                            url: "/Zabronirovat_bilety/query/get_all_schedule_cities/",
+                            processData: false,
+                            success: function(data) {
+                                $('#station_id_from').html(data);
+                                $('#loading-ajax').fadeTo('slow', 0);
+                            }
+                        });
+                    });                 
+                </script><div class="dbox d-purple">
+<big><a href="#">Расписание</a></big><form method="POST" name="schedule_form" id="schedule_form" action="/Raspisaniye_is_stoimost">
+<fieldset><dl class="schedule-columns">
+<dt><span class="highlight"><select name="station_id_from" id="station_id_from" onchange="get_dest_cities('loading-ajax', '/Zabronirovat_bilety')"><option value="0">Откуда</option></select></span></dt>
+<dd><span class="highlight"><select name="station_id_dest" id="station_id_dest" onchange="get_route_dates('loading-ajax', '/Zabronirovat_bilety')"><option value="0">Куда</option></select></span></dd>
+<dt><span class="highlight short"><select name="departure_date" id="departure_date" class="shorten"><option value="0">Дата</option></select></span></dt>
+<dd><input type="image" src="/Autolux/inc/Pages/PatternStd/img/btn_schedule_submit.png" name="subm"></dd>
+</dl></fieldset>
+<div id="loading-ajax" style="opacity: 1; float:right; margin-right:5px; margin-top:-34px; display:none;"><img src="/Autolux/inc/Pages/PageCalculator/img/loading4.gif"></div>
+<input type="hidden" name="fkey" value="idp351164020140730102357">
+</form>
+</div>
+</div>
+</div>
+<div class="informer">
+<div class="bar-gray"><a class=" ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1" href="http://finance.ua/" target="_blank">Курсы валют</a><a class=" ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1 ie7_class1" href="http://gismeteo.ua/" target="_blank">Погода</a></div>
+<div class="slider"><ul id="promo-slider" class="jcarousel-skin-tango">
+<li><a href="/Kalkulyator_stoimosti"><img src="/Autolux/inc/Pages/PatternStd/img/i_slide_04.gif" width="180" height="87" alt=""></a></li>
+<li><a href="/Bonusnaya_programma"><img src="/Autolux/inc/Pages/PatternStd/img/i_slide_03.gif" width="180" height="87" alt=""></a></li>
+<li><a href="/Arenda_avtobusa"><img src="/Autolux/inc/Pages/PatternStd/img/i_slide_05.gif" width="180" height="87" alt=""></a></li>
+<li><a href="/Dostavka_ot_i_do_dveri"><img src="/Autolux/inc/Pages/PatternStd/img/i_slide_02.gif" width="180" height="87" alt=""></a></li>
+<li><a href="/Dostavka_nalozhennym_platezhom"><img src="/Autolux/inc/Pages/PatternStd/img/i_slide_06.gif" width="180" height="87" alt=""></a></li>
+<li><a href="/Kupit_bilety"><img src="/Autolux/inc/Pages/PatternStd/img/i_slide_01.gif" width="180" height="87" alt=""></a></li>
+</ul></div>
+</div>
+<div id="header">
+<div class="auth-bar">
+<big>Мой виртуальный офис</big><form action="/"><fieldset>
+<input type="text" value="Логин"><input type="password" value="Пароль"><input style="cursor:default" class="submit" type="image" src="/Autolux/inc/Pages/PatternStd/img/btn_auth_submit.png" disabled>
+</fieldset></form>
+</div>
+<div class="language-bar">
+<a href="http://old.autolux.ua/russian" target="_blank">Архив сайта</a><a href="http://ua.autolux.ua/Predstavitelstva" class="w-pipe">Українська</a><a href="http://en.autolux.ua/Predstavitelstva">English</a>
+</div>
+<div class="logo" id="logo_head"><p class="notifier">Для просмотра карты необходим Flash Player. <a href="http://www.adobe.com/go/getflashplayer">Установить</a>.</p></div>
+<script type="text/javascript">
+            var so = new SWFObject("/Autolux/inc/Pages/PatternStd/img/logo.swf", "logo_h", "725", "62", "9", "#ffffff");
+            so.addParam("wmode", "opaque");
+ 	    so.write("logo_head");
+
+        $('#logo_head').on('mousedown', function()
+	{
+		window.location.replace("http://autolux.ua");	
+	});
+
+	</script><ul class="menu">
+<li><a id="Kompaniya_Avtolux" href="/Kompaniya_Avtolux">Компания Автолюкс</a></li>
+<li><a id="Bonusnaya_programma" href="/Bonusnaya_programma">Бонусная программа</a></li>
+<li><a id="Predstavitelstva" class="current">Представительства</a></li>
+<li><a id="Kontakty" href="/Kontakty">Контакты</a></li>
+</ul>
+</div>
+<div id="footer">
+<div class="contact-info">
+<big><a href="/Kontakty">Контакты центрального офиса:</a></big><p>тел.: +38 044 536 00 55, +38 044 536 00 53</p>
+<p><ins>Линия контроля качества: 0 800 505 008</ins></p>
+</div>
+<div class="copyright">© 2010–2014, ПІК «ААЗ Трейдінг Ко» Автолюкс ТМ<br>Ліцензія міністерства транспорту Серія АВ № 510082 от 11.02.10 (пасаж); Ліцензія міністерства транспорту Серія АВ № 120385 от 02,10,06 (пошт).</div>
+</div>
+</div>
+<noindex xmlns=""><div id="counters"></div></noindex><script xmlns="">FARBA_startBackgroundJobs("/BackgroundJobs", '30', '2');</script></body></html>

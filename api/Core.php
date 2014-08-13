@@ -11,6 +11,8 @@ class Core{
     			$res[] = $data;
     		}
     		return $res;
+    	}else{
+    		return false;
     	}
 
 	}
@@ -190,22 +192,24 @@ class Core{
 	}
 
 
-	function parse_yandex($data){
+function parse_yandex($data){
 		$links = array();
-		//$data = file_get_contents('D:/Work/Human Emulator/My Scripts/data.txt');
+		//$data = file_get_contents('C:/Work/Stat/data_y.txt');
 		$items = explode('class="b-serp-item__title-link"', $data);
 		unset($items[0]);
+		
 		$it = 1;
-		foreach ($items as $key => $item) {
+		foreach ($items as $key => $item) {			
+			$item = str_replace(';', '', $item);
+			$item = str_replace('&amp', '', $item);
 			list($trash, $link) = explode('href="', $item);
-			if(strstr($item, '&amp;')){
-				list($link, $trash) = explode('&amp;', $item);
-			}elseif(strstr($item, '"')){
-				list($link, $trash) = explode('"', $item);
-			}
-			if(!strstr($link, 'yabs') && !strstr($link, 'yandex.ua')){
+			
+						
+			list($link, $trash) = explode('"', $link);
+
+			if(!strstr($link, 'yabs') && !strstr($link, 'yandex')){
 				$links[] = $link;
-				$it++;
+				$it++;				
 				if($it > 5){
 					break;
 				}				
@@ -215,27 +219,43 @@ class Core{
 		return $links;
 	}
 
+	public function form_rel_res($links, $word){
+		$line = "";
+		if(!empty($links)){
+			if(count($links) > 0){
+				foreach ($links as $key => $link) {
+					$line .= $word.";".$link.";\n";
+				}
+			}
+		}
+		return $line;
+	}	
+
 	function parse_google($data){
 		$links = array();
-		//$data = file_get_contents('D:/Work/Human Emulator/My Scripts/data_g.txt');
+		//$data = file_get_contents('C:/Work/Stat/data_g.txt');
 		$data = strtolower($data);
 		$items = explode('h3 class=r><a href="/url?q=', $data);
 		unset($items[0]);
 		$it = 1;
 		foreach ($items as $key => $item) {
-			if(strstr($item, '&amp;')){
-				list($link, $trash) = explode('&amp;', $item);
-			}elseif(strstr($item, '"')){
-				list($link, $trash) = explode('"', $item);
-			}
+			$item = str_replace(';', '', $item);
 			
+			if(strstr($item, '&amp')){
+				list($link, $trash) = explode('&amp', $item);	
+			}else{
+				list($link, $trash) = explode('"', $item);
+			}		
+			
+
+
 			$links[] = $link;
 			$it++;
 			if($it > 5){
 				break;
 			}	
 		}
-		
+
 		return $links;
 	}
 
@@ -319,6 +339,47 @@ class Core{
     	}
 	}
 
+	// Adding unique shops domain to Base
+	public function addDomain($path, $domains){
+		$data = $this->readCSVFile($path);
+		$e_domains = array();
+		if(!empty($data) && $data){
+			foreach ($data as $key => $d) {
+				$e_domains[] = $d[0];	
+			}
+
+			$data = file_get_contents($path);			
+		}		
+		
+		$line = "";
+		foreach ($domains as $key => $domain) {
+			if(!array_search($domain, $e_domains)){				
+				$line .= $domain.";;\n";
+			}
+			
+		}
+
+		if(!$data){
+			$data = $line;
+		}else{
+			$data .= $line;
+		}		
+
+		file_put_contents($path, $data);
+		
+		
+	}
+
+	public function whos_expires($whos){
+		if(strstr($whos, 'expires:')){
+			list($trash, $expires_part) = explode('expires:', $whos);
+			list($expires, $trash) = explode('source:', $expires_part);
+			echo $expires;
+		}else{
+			return false;
+		}
+	}
+
 	function start($type){
 		switch ($type) {
 			case 'import_locations':
@@ -335,6 +396,10 @@ class Core{
 				break;
 			case 'count_product':
 				$this->get_parse_line();
+				break;
+			case 'shop_domain':
+				$data = file_get_contents('D:\Work\Statistic\shop_domains\whos.txt');
+				$this->whos_expires($data);
 				break;
 			
 			default:
